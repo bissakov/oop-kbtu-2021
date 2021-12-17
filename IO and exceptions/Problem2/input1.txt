@@ -1,0 +1,5 @@
+Implement a class that reads input1.txt and outputs every scanned line
+to the terminal. If the FileNotFoundException occurs, then your program
+should try opening the input2.txt in the catch block. In the finally construction
+your program should print to the terminal(command line) the name of the
+successfully processed file.
